@@ -1,7 +1,5 @@
 {
   "series": [
-    { "id": "mlp", "name": "My Little Pony", "subtitle": "Serie de prueba", "thumbUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/assets/MLP.jpg" },
-    { "id": "gravity-falls", "name": "Gravity Falls", "subtitle": "Serie de prueba", "thumb": "assets/gravity-falls.jpg" },
-    { "id": "owl-house", "name": "The Owl House", "subtitle": "Serie de prueba", "thumb": "assets/the-owl-house.jpg" }
+    { "id": "mlp", "name": "My Little Pony", "subtitle": "Serie de prueba", "thumbUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/assets/MLP.jpg", "detailUrl": "" }
   ]
 }
