@@ -1,5 +1,5 @@
 {
   "series": [
-    { "id": "mlp", "name": "My Little Pony", "subtitle": "Serie de prueba", "thumbUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/assets/MLP.jpg", "detailUrl": "" }
+    { "id": "mlp", "name": "My Little Pony", "subtitle": "Serie de prueba", "thumbUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/assets/MLP.jpg", "detailUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/details/mlp.json" }
   ]
 }
