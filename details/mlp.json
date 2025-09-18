@@ -1,1 +1,17 @@
-
+{
+  "id": "mlp",
+  "name": "My Little Pony",
+  "seasons": [
+    {
+      "season": 5,
+      "episodes": [
+        {
+          "number": 1,
+          "title": "El Mapa Cutie - Primera parte",
+          "thumbUrl": "https://raw.githubusercontent.com/pfarinav/mym3u/main/assets/mlp/s1e01.jpg",
+          "url": "https://www.youtube.com/watch?v=K7i69BO_hyk"
+        }
+      ]
+    }
+  ]
+}
